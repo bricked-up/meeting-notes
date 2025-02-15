@@ -1,0 +1,14 @@
+- frontend: kejsi, pico, nik (lead)
+- backend: rumen (lead) and everyone else
+- emil will set up database
+- auto generate docs from code
+- backend: golang
+- golang workshop TBD
+- goals:
+  - sign up in the form
+  - 2 weeks for requirements (rumen + nik)
+  - 2 weeks for backend team to learn go
+  - 2 weeks for frontend team to learn react + typescript
+  - 1 week period to change teams
+  - first focus for backend: database + user accounts
+  - first focus for frontend: ui design + templates
