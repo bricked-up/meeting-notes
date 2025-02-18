@@ -1,0 +1,13 @@
+- meramaid.js 
+- Feature to the projects: Reminders , priority, deadline promote and demote members should be able to add and delete projects , invite people to project and therefore adding them to a team, archive a projects, duration of a task, price and budget, assign a cost, time, deadline and member to a specific issue, small chat box optional, sign in and register, be able to customize tag color, 
+- three users - admin for team, project manager for the project, team member, all others are users
+- team based and project based requests to members 
+- if you make a project you are automatically are a project manager
+- Every project must have a project manager
+- there is no limit to the number of project manager
+- if a project manager leaves a project, the team admin is the default replacement
+- admin has access to all projects as read, write permissions
+- team renamed to organization 
+- organization is just a collocation of all of us
+- and we can create any number of projects inside the team 
+- team members will have permission within the projects
