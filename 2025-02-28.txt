@@ -1,0 +1,19 @@
+	- Maybe the professor wants the API format in pdf format
+	- API documentation needs to be ready next week
+	- JS doc that create a pdf with every single public function
+	- Final pdf we just merge the front-end and back-end pdfs
+	- API documentation at the end
+	- CI/CD is ready 
+	- Rumen made with a configuration file
+	- CD and UI are the most important right now
+	- Image and Email 
+	- Display name
+	- verify password feature
+	- you cannot do anything with an SQL image
+	- cicd.toml is the main configuration file
+	-  We should have the first deliverable 
+		○ Backend work sheet 
+		○ documentation
+		○ 30 hours of work per week
+	- Front-end does not need and does not want a new guy
+	- backend is indifferent about a new guy
