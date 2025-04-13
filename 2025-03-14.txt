@@ -1,0 +1,3 @@
+	- you can create other roles
+	- admin has execute 
+  - verify email is not done yet
