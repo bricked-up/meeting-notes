@@ -1,0 +1,14 @@
+	- send the zip file of the requirements repo
+	- 2 stage make the MVP
+	- everything related to user accounts, organization,
+	- search user feature
+	- every team and organization should have an id
+	- Invitation code
+	- Docker how to use it
+	- ask chatgpt to create a Docker image
+	- Integrating backend and frontend for testing
+	- put a cookie with a session token
+	- sessionid for when the user does operations on his account
+	- userid passing when working on the modification on other users ( add other users to org and projects)
+	- x
+	
