@@ -1,0 +1,14 @@
+	- professor said that we can have however many features we want 
+	- priority like a tag
+	- custom priority
+	- add a due date for issue for schema
+	- when backend is done some people will transfer to frontend
+
+Hard deadline for the project : 6th of May
+
+
+Date of the Switch of Backend to Frontend: 4th of April 
+
+Thursday 3 April 5:15 pm 
+
+email account whenever clicked on the email 
